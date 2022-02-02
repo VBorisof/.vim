@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/oma/Code/Go-Workspace/src/little-go-book/shopping/db'
+let g:netrw_dirhist_8='/home/oma/Code/Go-Workspace/src/little-go-book/shopping'
+let g:netrw_dirhist_7='/home/oma/Code/Go-Workspace/src/little-go-book/shopping/main'
+let g:netrw_dirhist_6='/home/oma/Code/Go-Workspace/src/little-go-book/shopping'
+let g:netrw_dirhist_5='/home/oma/Code/Go-Workspace/src/little-go-book/shopping/db'
+let g:netrw_dirhist_4='/home/oma/Code/Go-Workspace/src/little-go-book/shopping'
+let g:netrw_dirhist_3='/home/oma/Code/Go-Workspace/src/little-go-book/shopping/db'
+let g:netrw_dirhist_2='/home/oma/Code/Go-Workspace/src/little-go-book/shopping'
+let g:netrw_dirhist_1='/home/oma/Code/C#-Workspace/VimGround'
